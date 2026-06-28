@@ -52,10 +52,10 @@ jobs:
           }
 
           fetch_card \
-            "$base/api?username=mzuhairkhan&show_icons=true&theme=radical" \
+            "$base/api?username=kmubashshera&show_icons=true&theme=radical" \
             images/stats.svg
           fetch_card \
-            "$base/api/top-langs/?username=mzuhairkhan&theme=radical&layout=compact&hide=jupyter%20notebook,swig,dart" \
+            "$base/api/top-langs/?username=kmubashshera&theme=radical&layout=compact&hide=jupyter%20notebook,swig,dart" \
             images/top-langs.svg
 
 
