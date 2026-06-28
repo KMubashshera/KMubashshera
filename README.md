@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MZuhairKhan
-- 👀 I’m interested in quantum computing.
-- 🌱 I’m currently learning Python, Scala and quantum technology.
-- 💞️ I’m looking to collaborate on qiskit/cirq projects.
+- 👋 Hi, I’m @KMubashshera
+- 👀 I’m interested in Natural Sciences.
+- 🌱 I’m currently learning JAVA, and I am quite interested in physics and chemistry.
+- 💞️ I’m looking to collaborate on Material Science related projects.
 
 ----
 
@@ -9,7 +9,7 @@
 
  <div align="center">
   <div>
-    <img alt="Zuhair's Github Stats" src="./images/stats.svg" />
+    <img alt="Mubashshera's Github Stats" src="./images/stats.svg" />
     <img alt="Top Languages" src="./images/top-langs.svg" />
     <br />
   </div>
